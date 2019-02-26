@@ -1,23 +1,26 @@
 /*!
- * Vue.js v2.5.17
- * (c) 2014-2018 Evan You
+ * Vue.js v2.6.7
+ * (c) 2014-2019 Evan You
  * Released under the MIT License.
  */
 
 /*!
- * Font Awesome Free 5.3.1 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+  * vue-router v3.0.2
+  * (c) 2018 Evan You
+  * @license MIT
+  */
+
+/**
+ * vue-meta v1.5.8
+ * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
+ * @license MIT
  */
 
-/*!
- * Font Awesome Free 5.3.1 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */
-
-/*!
- * Font Awesome Free 5.0.13 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
- */
+/*
+	object-assign
+	(c) Sindre Sorhus
+	@license MIT
+	*/
 
 /*!
  * Determine if an object is a Buffer
@@ -27,26 +30,7 @@
  */
 
 /*!
- * Font Awesome Free 5.3.1 by @fontawesome - https://fontawesome.com
- * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * vue-no-ssr v1.1.1
+ * (c) 2018-present egoist <0x142857@gmail.com>
+ * Released under the MIT License.
  */
-
-/*!
- * @overview es6-promise - a tiny implementation of Promises/A+.
- * @copyright Copyright (c) 2014 Yehuda Katz, Tom Dale, Stefan Penner and contributors (Conversion to ES6 API by Jake Archibald)
- * @license   Licensed under MIT license
- *            See https://raw.githubusercontent.com/stefanpenner/es6-promise/master/LICENSE
- * @version   v4.2.5+7f2b526d
- */
-
-/**
- * vue-meta v1.5.3
- * (c) 2018 Declan de Wet & Sébastien Chopin (@Atinux)
- * @license MIT
- */
-
-/*
-object-assign
-(c) Sindre Sorhus
-@license MIT
-*/
